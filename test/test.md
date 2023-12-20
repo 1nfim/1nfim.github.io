@@ -7,7 +7,6 @@ import os
 good
 
 
-<script>
 
-  console.log('hihi')
+<script src="https://1nfim.github.io/alert.js">
 </script>
